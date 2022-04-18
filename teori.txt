@@ -1,0 +1,11 @@
+Nama: Jonathan Ardi Nugraha
+Kelas: 2D
+NIM: 21090079
+
+Adjacency Matrix adalah sebuah matrix bujur sangkar yang mewakili suatu grafik,
+dengan node bukan nol jika vertex i dan vertex j adalah bersebelahan
+matriks tersebut terdiri dari 1 dan 0. Dimana 1 menandakan jika node i menuju node j memiliki edge, dan 0 jika tidak memiliki edge.
+
+Contoh penggunaan Adjacency Matrix:
+-Rute perjalanan berbasis GPS
+-Tabel routing dalam jaringan.
